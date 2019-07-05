@@ -286,7 +286,7 @@ header{
     cursor: pointer;
 }
 
-/* медиазапросы  */
+/* медиазапросы */
 
 @media (max-width: 480px) {
     .wrap { max-width: 480px; }
