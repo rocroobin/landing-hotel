@@ -339,7 +339,7 @@ header{
 
 @media (min-width:1200px) {
     .wrap { max-width: 1440px; }
-    .wrap_menu_section { margin-right: 10%%; flex: auto;}
+    .wrap_menu_section { margin-right: 10%; flex: auto;}
     .wrap_menu > :first-child { margin-left: 5%; }
     .wrap_menu > :last-child { margin-right: 5%; }
     .wrap_menu { height: auto; flex-wrap: wrap;}
