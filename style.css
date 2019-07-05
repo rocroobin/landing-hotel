@@ -333,14 +333,14 @@ header{
     header { margin-left: 5%; margin-right: 5%;}
     .wrap_menu_section { margin-top: 10px; margin-left: 5%; margin-right: 5%; flex: auto;}
     .wrap_menu > :first-child { margin-left: 5%; }
-    .wrap_menu > :last-child { margin-right: 5% }
+    .wrap_menu > :last-child { margin-right: 5%; margin-bottom: 10px; }
     .wrap_menu { height: auto; flex-wrap: wrap;}
 }
 
 @media (min-width:1200px) {
     .wrap { max-width: 1440px; }
-    .wrap_menu_section { margin-right: 10%; flex: auto;}
+    .wrap_menu_section { margin-right: 5%; flex: auto;}
     .wrap_menu > :first-child { margin-left: 5%; }
-    .wrap_menu > :last-child { margin-right: 5%; }
+    .wrap_menu > :last-child { margin-left: 5%; margin-right: 5%; margin-bottom: 10px; }
     .wrap_menu { height: auto; flex-wrap: wrap;}
 }
